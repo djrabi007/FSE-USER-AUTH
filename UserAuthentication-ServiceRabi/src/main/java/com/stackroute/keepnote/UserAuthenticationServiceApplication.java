@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //@EnableFeignClients
 public class UserAuthenticationServiceApplication {
 	public static void main(String[] args) {
+		//Test
 		SpringApplication.run(UserAuthenticationServiceApplication.class, args);
 		
 	}
