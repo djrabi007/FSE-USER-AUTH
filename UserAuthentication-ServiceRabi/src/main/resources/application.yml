@@ -1,5 +1,5 @@
  spring:
-
+  
 # --Added By Rabi -Start --- #   
 #   datasource:
 #     url: jdbc:mysql://${MYSQL_HOST}:3306/${MYSQL_DATABASE}
@@ -38,4 +38,5 @@
  jwt:
   security:
     secret: supersecret
-   
+
+ 
